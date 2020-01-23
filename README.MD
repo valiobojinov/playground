@@ -9,3 +9,5 @@ Test for second branch
 Test for yet anohter edit
 
 edit 2
+
+Feature x;
